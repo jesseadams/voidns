@@ -1,0 +1,5 @@
+:api_key: 'YOUR TOKEN HERE'
+:domain: 'example.com'
+:names_to_change:
+  - 'foobar'
+:external_interface: 'eth0' # If this is blank will try icanhazip.com
